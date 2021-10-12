@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Cuadrado
+comment0.text=\r\n\ Permite\ instanciar\ un\ cuadrado\r\n\ \r\n\ @author\ Gomez\ Victor\ Agustin\r\n\ @version\ 2.0\r\n
+comment1.params=p_origen\ p_ancho\ p_alto\ p_lado
+comment1.target=Cuadrado(Punto,\ double,\ double,\ double)
+comment2.params=p_lado
+comment2.target=void\ setLado(double)
+comment3.params=
+comment3.target=double\ getLado()
+comment4.params=
+comment4.target=java.lang.String\ nombreFigura()
+comment5.params=
+comment5.target=void\ caracteristicas()
+numComments=6

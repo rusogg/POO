@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ArrayDePuntos
+comment0.text=\r\n\ Permite\ crear\ un\ array\ de\ puntos\r\n\ \r\n\ @author\ Gomez\ Victor\ Agustin\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

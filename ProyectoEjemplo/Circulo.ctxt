@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Circulo
+comment1.params=p_centro\ p_radio
+comment1.target=Circulo(Punto,\ int)
+comment2.params=
+comment2.target=int\ getRadio()
+comment3.params=
+comment3.target=Punto\ getCentro()
+comment4.params=p_radio
+comment4.target=void\ setRadio(int)
+comment5.params=p_centro
+comment5.target=void\ setCentro(Punto)
+comment6.params=
+comment6.target=double\ superficie()
+comment7.params=
+comment7.target=int\ suma()
+numComments=8

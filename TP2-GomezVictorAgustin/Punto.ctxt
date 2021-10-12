@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=p_x\ p_y
+comment1.target=Punto(double,\ double)
+comment2.params=p_x
+comment2.target=void\ setX(double)
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=p_y
+comment4.target=void\ setY(double)
+comment5.params=
+comment5.target=double\ getY()
+comment6.params=dx\ dy
+comment6.target=void\ desplazar(double,\ double)
+comment6.text=Suma\ a\ la\ coordenada\ X\ el\ valor\ de\ dx\ para\ desplazar,\ y\ tambien\ a\ la\ coordenada\ Y\ le\ suma\ dy\ para\ desplazar\r\n\ \ \ \ \ @param\ double\ dx,\ double\ dy\r\n\ \ \ \ \ @return\ No\ devuelve\ nada\r\n@throws\ No\ dispara\ ninguna\ excepci\u00F3n\ *
+comment7.params=
+comment7.target=java.lang.String\ coordenadas()
+comment7.text=Devuelve\ las\ coordenadas\ X\ e\ Y\r\n\ \ \ \ \ @param\ No\ recibe\ parametros\r\n\ \ \ \ \ @return\ Devuelve\ una\ variable\ de\ tipo\ String\r\n@throws\ No\ dispara\ ninguna\ excepci\u00F3n\ *
+comment8.params=
+comment8.target=void\ mostrar()
+numComments=9

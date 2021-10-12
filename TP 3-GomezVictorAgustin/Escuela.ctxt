@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Escuela
+comment0.text=\r\n\ Permite\ instanciar\ una\ escuela\r\n\ \r\n\ @author\ Gomez\ Victor\ Agustin\r\n\ @version\ 1.0\r\n
+comment1.params=p_nombre\ p_domicilio\ p_director
+comment1.target=Escuela(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=p_domicilio
+comment4.target=void\ setDomicilio(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDomicilio()
+comment6.params=p_director
+comment6.target=void\ setDirector(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getDirector()
+comment8.params=p_docente
+comment8.target=void\ imprimirRecibo(Docente)
+comment8.text=Muestra\ datos,\ algunos\ utilizando\ metodos\ de\ otra\ clase,\ por\ conocimiento\ de\ parametro\ con\ otro\ Docente\r\n\ \ \ \ \ @param\ Docente\ p_docente\r\n\ \ \ \ \ @return\ No\ devuelve\ nada\r\n@throws\ No\ dispara\ ninguna\ excepci\u00F3n\ *
+numComments=9

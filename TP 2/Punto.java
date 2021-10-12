@@ -54,8 +54,6 @@ public class Punto{
         return "(" + this.getX() + ", " +  this.getY() + ")";
     }
     
- 
-    
     public void mostrar(){
         System.out.println ("Punto. X:" + this.getX() + ", " + "Y:" + this.getY() );
         
